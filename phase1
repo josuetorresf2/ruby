@@ -1,0 +1,12 @@
+irb #opens ruby interactive
+irb(main):010:0> def hi
+irb(main):011:1> puts "Hello World!"
+irb(main):012:1> end
+irb(main):013:0> hi
+Hello World!
+=> nil
+irb(main):014:0> hi()
+Hello World!
+=> nil
+
+https://www.ruby-lang.org/en/documentation/quickstart/2/
